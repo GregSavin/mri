@@ -23,7 +23,7 @@
 
 static int processGdbFileResponseCommands(void);
 /* Send file open request to gdb on behalf of mbed LocalFileSystem.
-
+/* test comment */
     Data Format: Fopen,ff/nn,gg,mm
     
     Where ff is the hex representation of the address of the filename to be opened.
